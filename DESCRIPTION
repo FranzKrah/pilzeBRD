@@ -1,0 +1,10 @@
+Package: pilzeBRD
+Type: Package
+Title: Abfrage Pilzartenliste der Webseite "www.brd.pilzkartierung.de"
+Version: 1.0
+Date: 2016-09-24
+Author: Franz-Sebastian Krah
+Maintainer: Post an <f.krah@mailbox.org>
+Description: pilzeBRD besteht aktuell aus einer Funktion die als Argument ein MTB Gebiete alle Pilzarten als Vektor ausgiebt. Mehr Informationen auf der Seite "http://brd.pilzkartierung.de".
+License: GPL (>= 2)
+RoxygenNote: 5.0.1
